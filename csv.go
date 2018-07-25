@@ -29,7 +29,7 @@ var FailIfDoubleHeaderNames = false
 var ShouldAlignDuplicateHeadersWithStructFieldOrder = false
 
 // TagSeparator defines seperator string for multiple csv tags in struct fields
-var TagSeparator = ","
+var TagSeparator = ";"
 
 // --------------------------------------------------------------------------
 // CSVWriter used to format CSV
